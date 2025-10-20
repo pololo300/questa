@@ -6,7 +6,7 @@ DB_NAME="questa"
 DB_USER="questauser"
 DB_PASS="questapass"
 DB_DIR="/srv/questa/data"
-PG_VERSION="15"
+PG_VERSION="16"
 
 # === mkdir ===
 mkdir -p "$DB_DIR"
